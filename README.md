@@ -1,8 +1,8 @@
 # Mouseless
-Allowing the user to control the mouse using the numpad.<br />
+Allow users to control the mouse using the numpad.<br />
 
 ##Usage
-To start using, run the jar file from the release folder (java -jar \<path\>)
+To start using, run the jar file from the release folder (`java -jar \<path\>`)
 <br /><br />
 <b>Power:</b> Use the numlock button to switch the features on/off.<br />
 <b>Move:</b> Use the numpad's 1,2,3,4,6,7,8,9 to move the mouse around the screen.<br />
